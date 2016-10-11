@@ -172,6 +172,7 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Class Metier\Categorie.cs" />
+    <Compile Include="Models\Class Metier\Class_test.cs" />
     <Compile Include="Models\Class Metier\IMetier.cs" />
     <Compile Include="Models\Class Metier\Magasin.cs" />
     <Compile Include="Models\Class Metier\MetierImplemente.cs" />
