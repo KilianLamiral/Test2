@@ -1,0 +1,31 @@
+﻿@model IEnumerable<ApplicationNET.Models.Class_Metier.Categorie>
+@{
+    ViewBag.Title = "AfficherListeCategorie";
+}
+
+<h2>AfficherListeCategorie</h2>
+
+<table class="table table-striped">
+    @*mise en page bootstrap*@
+    <thead>
+        @*entete du tableau*@
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.CategorieID)</th>
+            <th>@Html.DisplayNameFor(Model => Model.NomCategorie)</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @*body du tableau*@
+        @foreach (var element in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => element.CategorieID)</td>
+                <td>@Html.DisplayFor(modelItem => element.NomCategorie)</td>
+               <td>@Html.ActionLink("Supprimer","Delete",new { prodID = element.CategorieID })</td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

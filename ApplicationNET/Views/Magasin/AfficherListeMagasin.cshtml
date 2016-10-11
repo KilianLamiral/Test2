@@ -1,0 +1,33 @@
+﻿@model IEnumerable<ApplicationNET.Models.Class_Metier.Magasin>
+@{
+    ViewBag.Title = "AfficherListeMagasin";
+}
+
+<h2>AfficherListeMagasin</h2>
+
+<table class="table table-striped">
+    @*mise en page bootstrap*@
+    <thead>
+        @*entete du tableau*@
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.MagasinID)</th>
+            <th>@Html.DisplayNameFor(Model => Model.NomMagasin)</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @*body du tableau*@
+        @foreach (var element in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => element.MagasinID)</td>
+                <td>@Html.DisplayFor(modelItem => element.NomMagasin)</td>
+                <td>@Html.ActionLink("Supprimer", "Delete", new { id = element.MagasinID })</td>
+               
+            </tr>
+        }
+
+    </tbody>
+
+</table>
+

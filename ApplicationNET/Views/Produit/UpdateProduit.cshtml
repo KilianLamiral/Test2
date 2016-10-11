@@ -1,0 +1,16 @@
+﻿@model ApplicationNET.Models.Class_Metier.Produit
+@{
+    ViewBag.Title = "UpdateProduit";
+}
+
+<h2>UpdateProduit</h2>
+
+@*ecriture du formulaire*@
+@using (Html.BeginForm("UpdateProduit", "Produit", FormMethod.Post))
+{
+    @Html.HiddenFor(Model => Model.ProduitID)//HiddenFor = champs caché
+    <span>@Html.DisplayNameFor(Model => Model.Nom)</span><span>@Html.TextBoxFor(Model => Model.Nom)</span><br />
+    <span>@Html.DisplayNameFor(Model => Model.Prix)</span><span>@Html.TextBoxFor(Model => Model.Prix)</span><br />
+    <span>@Html.DisplayNameFor(Model => Model.Description)</span><span>@Html.TextBoxFor(Model => Model.Description)</span><br />
+    <button type="submit">Editer</button>
+}

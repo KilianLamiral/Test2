@@ -1,0 +1,202 @@
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\ApplicationInsights.config
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\roslyn\csc.exe
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\roslyn\System.Collections.Immutable.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\roslyn\vbc.exe
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\roslyn\VBCSCompiler.exe
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\roslyn\VBCSCompiler.exe.config
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\ApplicationNET.dll.config
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\ApplicationNET.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\ApplicationNET.pdb
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Antlr3.Runtime.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.Web.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.WindowsServer.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.ApplicationInsights.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.Web.Infrastructure.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Newtonsoft.Json.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Helpers.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Mvc.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Optimization.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Razor.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.Deployment.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.Razor.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\WebGrease.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.Web.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.WindowsServer.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.ApplicationInsights.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Helpers.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Mvc.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Optimization.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Razor.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.Deployment.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.Razor.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Antlr3.Runtime.pdb
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\Newtonsoft.Json.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.Helpers.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.Mvc.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.Optimization.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.Razor.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.WebPages.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.WebPages.Deployment.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.WebPages.Razor.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.csprojResolveAssemblyReference.cache
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.pdb
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\EntityFramework.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\EntityFramework.SqlServer.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\EntityFramework.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\EntityFramework.SqlServer.xml
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\bin\fr\EntityFramework.resources.dll
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.Migrations.creationBDD_EXO_Produit.resources
+c:\users\adminl\documents\visual studio 2015\Projects\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.csproj.GenerateResource.Cache
+H:\Prog\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.csprojResolveAssemblyReference.cache
+H:\Prog\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.Migrations.creationBDD_EXO_Produit.resources
+H:\Prog\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.csproj.GenerateResource.Cache
+H:\Prog\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.pdb
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\ApplicationInsights.config
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\csc.exe
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\System.Collections.Immutable.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\System.Reflection.Metadata.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\vbc.exe
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\VBCSCompiler.exe
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\VBCSCompiler.exe.config
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\ApplicationNET.dll.config
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\ApplicationNET.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\ApplicationNET.pdb
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Antlr3.Runtime.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\EntityFramework.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\EntityFramework.SqlServer.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.DependencyCollector.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.Web.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.WindowsServer.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.ApplicationInsights.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.Web.Infrastructure.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Newtonsoft.Json.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Helpers.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Mvc.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Optimization.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Razor.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.Deployment.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.Razor.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\WebGrease.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\EntityFramework.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\EntityFramework.SqlServer.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.DependencyCollector.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.Web.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.WindowsServer.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.ApplicationInsights.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Helpers.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Mvc.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Optimization.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Razor.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.Deployment.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.Razor.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Antlr3.Runtime.pdb
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Newtonsoft.Json.xml
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\EntityFramework.resources.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.Helpers.resources.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.Mvc.resources.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.Optimization.resources.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.Razor.resources.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.WebPages.resources.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.WebPages.Deployment.resources.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.WebPages.Razor.resources.dll
+H:\Prog\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.Migrations.AjoutMagasinEtCategorie.resources
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\ApplicationInsights.config
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\csc.exe
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\System.Collections.Immutable.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\System.Reflection.Metadata.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\vbc.exe
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\VBCSCompiler.exe
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\roslyn\VBCSCompiler.exe.config
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\ApplicationNET.dll.config
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\ApplicationNET.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\ApplicationNET.pdb
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Antlr3.Runtime.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\EntityFramework.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\EntityFramework.SqlServer.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.DependencyCollector.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.Web.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.WindowsServer.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.ApplicationInsights.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.Web.Infrastructure.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Newtonsoft.Json.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Helpers.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Mvc.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Optimization.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Razor.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.Deployment.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.Razor.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\WebGrease.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\EntityFramework.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\EntityFramework.SqlServer.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.DependencyCollector.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.Web.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.AI.WindowsServer.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.ApplicationInsights.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Helpers.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Mvc.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Optimization.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.Razor.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.Deployment.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\System.Web.WebPages.Razor.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Antlr3.Runtime.pdb
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\Newtonsoft.Json.xml
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\EntityFramework.resources.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.Helpers.resources.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.Mvc.resources.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.Optimization.resources.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.Razor.resources.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.WebPages.resources.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.WebPages.Deployment.resources.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\bin\fr\System.Web.WebPages.Razor.resources.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.csprojResolveAssemblyReference.cache
+G:\Prog\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.dll
+G:\Prog\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.pdb
+G:\Prog\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.Migrations.creationBDDTest2.resources
+G:\Prog\SolutionMVC4.NET\ApplicationNET\obj\Debug\ApplicationNET.csproj.GenerateResource.Cache

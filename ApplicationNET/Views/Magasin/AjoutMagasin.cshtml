@@ -1,0 +1,14 @@
+﻿@model ApplicationNET.Models.Class_Metier.Magasin
+@{
+    ViewBag.Title = "AjoutMagasin";
+}
+
+<h2>AjoutMagasin</h2>
+
+@*Ecriture du formulaire*@
+@using (Html.BeginForm("AjoutMagasin", "Magasin", FormMethod.Post))
+{ 
+<span>@Html.DisplayNameFor(Model => Model.NomMagasin)</span><span>@Html.TextBoxFor(Model => Model.NomMagasin)</span><br />
+
+<button type="submit">Ajouter</button>
+}

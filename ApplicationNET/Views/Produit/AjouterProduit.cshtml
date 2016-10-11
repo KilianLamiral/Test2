@@ -1,0 +1,17 @@
+﻿@*besoin de declarer le modele.
+    Appel du modele utilisé*@
+@model ApplicationNET.Models.Class_Metier.Produit
+@{
+    ViewBag.Title = "AjouterProduit";
+}
+
+<h2>AjouterProduit</h2>
+@*ecriture du formulaire*@
+@using (Html.BeginForm("AjouterProduit","Produit",FormMethod.Post))
+{
+    <span>@Html.DisplayNameFor(Model=>Model.Nom)</span><span>@Html.TextBoxFor(Model=>Model.Nom)</span><br />
+    <span>@Html.DisplayNameFor(Model=>Model.Prix)</span><span>@Html.TextBoxFor(Model=>Model.Prix)</span><br />
+    <span>@Html.DisplayNameFor(Model=>Model.Description)</span><span>@Html.TextBoxFor(Model=>Model.Description)</span><br/>
+    <button type="submit">Ajouter</button>
+}
+

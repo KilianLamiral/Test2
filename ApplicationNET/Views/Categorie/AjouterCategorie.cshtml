@@ -1,0 +1,15 @@
+﻿@model ApplicationNET.Models.Class_Metier.Categorie
+@{
+    ViewBag.Title = "AjouterCategorie";
+}
+
+<h2>AjouterCategorie</h2>
+
+@*formulaire*@
+@using (Html.BeginForm("AjouterCategorie", "Categorie", FormMethod.Post))
+{ 
+<span>@Html.DisplayNameFor(Model => Model.NomCategorie)</span><span>@Html.TextBoxFor(Model => Model.NomCategorie)</span>
+
+<button type="submit">Ajouter</button>
+}   
+

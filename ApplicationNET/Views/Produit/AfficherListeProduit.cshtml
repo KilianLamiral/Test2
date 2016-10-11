@@ -1,0 +1,34 @@
+﻿@model IEnumerable<ApplicationNET.Models.Class_Metier.Produit>
+@{
+    ViewBag.Title = "AfficherListeProduit";
+}
+
+<h2>AfficherListeProduit</h2>
+
+
+<table class="table table-striped"> //mise en page bootstrap
+    <thead> @*entete du tableau*@
+        <tr>
+            <th>@Html.DisplayNameFor(Model => Model.ProduitID)</th>
+            <th>@Html.DisplayNameFor(Model => Model.Nom)</th>
+            <th>@Html.DisplayNameFor(Model => Model.Prix)</th>
+            <th>@Html.DisplayNameFor(Model => Model.Description)</th>
+        </tr>
+    </thead>
+    <tbody> @*body du tableau*@
+        @foreach (var element in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem=>element.ProduitID)</td>
+                <td>@Html.DisplayFor(modelItem => element.Nom)</td>
+                <td>@Html.DisplayFor(modelItem => element.Prix)</td>
+                <td>@Html.DisplayFor(modelItem => element.Description)</td>
+                <td>@Html.ActionLink("Supprimer", "SupprimerProduit", new { ProdID = element.ProduitID })</td>
+                <td>@Html.ActionLink("Editer", "UpdateProduit", new { ProdID = element.ProduitID })</td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>
+
