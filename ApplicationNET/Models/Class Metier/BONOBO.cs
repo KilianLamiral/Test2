@@ -10,5 +10,7 @@ namespace ApplicationNET.Models.Class_Metier
         public int BONOBOID { get; set; }
         public string SingeName { get; set; }
 
+        public int AgeBonobo { get; set; }
+
     }
 }
