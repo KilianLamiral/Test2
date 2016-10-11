@@ -5,9 +5,10 @@ using System.Web;
 
 namespace ApplicationNET.Models.Class_Metier
 {
-    public class Class_test
+    public class BONOBO
     {
-        public int testId { get; set; }
-        public string testNom { get; set; }
+        public int BONOBOID { get; set; }
+        public string SingeName { get; set; }
+
     }
 }
