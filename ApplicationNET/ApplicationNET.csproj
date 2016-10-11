@@ -173,6 +173,7 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Class Metier\BONOBO.cs" />
     <Compile Include="Models\Class Metier\Categorie.cs" />
+    <Compile Include="Models\Class Metier\CHIMPANZE.cs" />
     <Compile Include="Models\Class Metier\IMetier.cs" />
     <Compile Include="Models\Class Metier\Magasin.cs" />
     <Compile Include="Models\Class Metier\MetierImplemente.cs" />
